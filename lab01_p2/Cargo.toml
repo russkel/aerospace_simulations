@@ -1,0 +1,10 @@
+[package]
+name = "lab01_p2"
+version = "0.1.0"
+authors = ["Russ Webber <russ@rw.id.au>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+prettytable-rs = "^0.8"
